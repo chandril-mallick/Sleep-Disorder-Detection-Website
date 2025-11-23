@@ -1,4 +1,5 @@
-# Sleep Health  disordro Predictor 🌙
+#Sleep disorder detection using wearable data
+
 
 An AI-powered clinical decision support system for sleep disorder detection and health monitoring, featuring smartwatch integration and advanced analytics.
 
