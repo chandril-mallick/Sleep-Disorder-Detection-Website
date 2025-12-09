@@ -57,7 +57,7 @@ This application leverages machine learning to predict and analyze sleep disorde
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd Samsung_Capstone_Sleep_Project
+
 ```
 
 2. Create and activate a virtual environment (recommended):
