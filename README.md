@@ -109,7 +109,7 @@ Samsung_Capstone_Sleep_Project/
 └── README.md
 ```
 
-## 🎮 Usage Guide
+## Usage Guide
 
 ### 1. Connect Smartwatch (Optional)
 - Select your device from the dropdown
@@ -132,7 +132,7 @@ Samsung_Capstone_Sleep_Project/
 - **Feature Importance**: See which factors matter most
 - **Historical Tracking**: Monitor progress over time
 
-## 🧠 Model Details
+##  Model Details
 
 ### Algorithm
 - **Type**: Random Forest Classifier
@@ -217,6 +217,4 @@ This application is deployed on Streamlit Cloud and accessible at:
 
 For questions or feedback, please reach out to [chandrilmallick1@gmail.com]
 
----
 
-**Built with ❤️ for Samsung Capstone Project**
