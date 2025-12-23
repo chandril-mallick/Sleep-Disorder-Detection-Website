@@ -1,4 +1,4 @@
-# Sleep Health Predictor 🌙
+# Sleep Health Predictor 
 
 An AI-powered clinical decision support system for sleep disorder detection and health monitoring, featuring smartwatch integration and advanced analytics.
 
